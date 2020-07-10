@@ -1,0 +1,16 @@
+{
+    "name": "supersnqr/test",
+    "description": "desc",
+    "type": "library",
+    "require": {
+        "php": ">=7.0"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "supersnqr\\": "test"
+        }
+    }
+
+}
